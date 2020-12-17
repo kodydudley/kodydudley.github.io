@@ -47,3 +47,7 @@
 .buffer {
   height: 15vh;
 }
+
+.font-montserrat {
+  font-family: 'Montserrat', sans-serif;
+}
