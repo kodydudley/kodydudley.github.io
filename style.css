@@ -1,0 +1,49 @@
+.background {
+  background-image: url(./background.jpg);
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+
+.header-text {
+  font-size: 6em;
+}
+
+.header-name {
+  color: #15C58A;
+}
+
+.header-sub-font {
+  font-size: 2em;
+}
+
+.headerImg {
+  height: 50vh;
+  border-radius: 50%;
+}
+
+.button {
+  border-radius: 35px;
+  border-width: 3px;
+}
+
+.bar {
+  height: 7px;
+  background-color: #15C58A;
+  width: 9.7em;
+}
+
+.navbarBackground {
+  background-color: #15C58A;
+}
+
+.BGlight {
+  background-color: whitesmoke;
+}
+
+.aboutHeader {
+  font-size: 5em;
+}
+
+.buffer {
+  height: 15vh;
+}
