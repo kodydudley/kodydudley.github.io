@@ -1,7 +1,13 @@
-.background {
+/* .background {
   background-image: url(./background.jpg);
   background-repeat: no-repeat;
-  background-size: auto;
+  background-size: cover;
+} */
+
+.background {
+  background-image: url(./background2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .header-text {
@@ -57,11 +63,18 @@
   font-family: 'Montserrat', sans-serif;
 }
 
-.aboutImg {
+/* .aboutImg {
   border-top-left-radius: 25px;
   border-bottom-left-radius: 25px;
-}
+} */
 
-.border {
+/* .border {
   border-radius: 25px;
+  border-bottom-right-radius: 25px;
+  border-top-right-radius: 25px;
+} */
+
+.border-full {
+  border-radius: 25px;
+  padding: 5px;
 }
