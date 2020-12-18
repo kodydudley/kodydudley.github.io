@@ -8,6 +8,10 @@
   font-size: 6em;
 }
 
+.secondary-text {
+  color: #3498db;
+}
+
 .header-name {
   color: #15C58A;
 }
@@ -34,6 +38,7 @@
 
 .navbarBackground {
   background-color: #15C58A;
+
 }
 
 .BGlight {
@@ -50,4 +55,13 @@
 
 .font-montserrat {
   font-family: 'Montserrat', sans-serif;
+}
+
+.aboutImg {
+  border-top-left-radius: 25px;
+  border-bottom-left-radius: 25px;
+}
+
+.border {
+  border-radius: 25px;
 }
